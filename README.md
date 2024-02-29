@@ -63,3 +63,24 @@ There are no major differences in nutrient distribution between the recipe with 
 ## Model Development: 
 This is a binary classification problem. I choose ***LogisticRegression*** and ***LinearSVC***
 
+![github](https://github.com/Khangtran94/Recipe_High_Traffic_Prediction/assets/146164801/13d0c8e8-8b8d-4ce8-9aa5-fcb75dc6c7bb)
+
+## Model Evaluation:
+
+![github](https://github.com/Khangtran94/Recipe_High_Traffic_Prediction/assets/146164801/68603654-e569-429c-a3a1-ff1935ad5d84)
+
+* Both the Logistic Regression model and LinearSVC model worked well with the dataset.
+* Both models let us know that the category is the most effective feature for the high traffic.
+* According to the results from the above steps, the Logistic Regression satisfied both business goals. Its precision, recall and F1-score have values equal to or greater than 80%.
+
+## Business Metrics:
+
+![github](https://github.com/Khangtran94/Recipe_High_Traffic_Prediction/assets/146164801/b8542450-d1dc-43e9-b07a-3fae2737e7b8)
+
+* The Logistic Regression model achieved an accuracy of 78%
+* While the Linear SVC model had a slightly lower accuracy of 76%.
+
+## Recommendations for future action:
+* We suggest to deploy the Logistic Regression model to the recent recipes. With approximately 78% in predict high-traffic recipes, this predictive model can assist the product manager reaches the business goals in generating more traffic to the websit and boost overall performances.
+* Both models suggest that category is the main feature affecting the traffic. Therefore, we should try to increase the number of categories and create more meaningful features from existing variables.
+* To improve the accuracy, we should collect more information, such as more details about time to cost, cost per servings, and also the combination of ingredients.
