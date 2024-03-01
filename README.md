@@ -22,6 +22,7 @@ Provide the high traffic recipes with at least 80% accuracy.
 * NumPy, Pandas, Seaborn, Matplotlib, sklearn
 
 # Dataset information:
+The dataset has **985 rows** and **8 columns**.
 
 ![github](https://github.com/Khangtran94/Recipe_High_Traffic_Prediction/assets/146164801/dfaa923a-2408-4ed6-8655-1659b0546ce0)
 
@@ -34,7 +35,8 @@ Provide the high traffic recipes with at least 80% accuracy.
 ## Exploratory data analysis (EDA):
 ![github](https://github.com/Khangtran94/Recipe_High_Traffic_Prediction/assets/146164801/2e04aa9d-1fb7-4c3a-a5ba-5ba138b74abc)
 
-According to the graph above, there are 535 recipes labeled as high traffic account for 59.78%, while there are 360 recipes labeled as low traffic taking up 40.22%. ==> The high-traffic recipes are higher than the low-traffic recipes.
+According to the graph above, there are 535 recipes labeled as high traffic account for 59.78%, while there are 360 recipes labeled as low traffic taking up 40.22%. 
+==> The high-traffic recipes are higher than the low-traffic recipes.
 
 ![github](https://github.com/Khangtran94/Recipe_High_Traffic_Prediction/assets/146164801/863e2ff4-9c74-457c-a930-b3d5c3db27e0)
 
