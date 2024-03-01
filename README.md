@@ -80,7 +80,7 @@ This is a binary classification problem. I choose ***LogisticRegression*** and *
 * The Logistic Regression model achieved an accuracy of 78%
 * While the Linear SVC model had a slightly lower accuracy of 76%.
 
-## Recommendations for future action:
+# Recommendations for future action:
 * We suggest to deploy the Logistic Regression model to the recent recipes. With approximately 78% in predict high-traffic recipes, this predictive model can assist the product manager reaches the business goals in generating more traffic to the websit and boost overall performances.
 * Both models suggest that category is the main feature affecting the traffic. Therefore, we should try to increase the number of categories and create more meaningful features from existing variables.
 * To improve the accuracy, we should collect more information, such as more details about time to cost, cost per servings, and also the combination of ingredients.
