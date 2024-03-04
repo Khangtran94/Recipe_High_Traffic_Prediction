@@ -1,5 +1,7 @@
 # *Recipe Site Traffic Prediction*
 
+![Untitled](https://github.com/Khangtran94/Recipe_High_Traffic_Prediction/assets/146164801/818e3529-17fa-4ab7-a38e-57c7ab5c5ca4)
+
 Using machine learning techniques, predict high-traffic recipes on a recipe website.
 
 These predictions will assist the website's product manager in making data-driven decisions to enhance user engagement and overall traffic on the site.
