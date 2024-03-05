@@ -6,7 +6,7 @@ Using machine learning techniques, predict high-traffic recipes on a recipe webs
 
 These predictions will assist the website's product manager in making data-driven decisions to enhance user engagement and overall traffic on the site.
 
-## Business goals
+## Business goals:
 
 Provide the prediction for the recipes that will lead to high traffic.
 
@@ -19,7 +19,7 @@ Provide the high traffic recipes with at least 80% accuracy.
 * Model Evaluation
 * Business Metrics
  
-### Technologies
+### Technologies:
 * Python / Jupyter Notebook
 * NumPy, Pandas, Seaborn, Matplotlib, sklearn
 
